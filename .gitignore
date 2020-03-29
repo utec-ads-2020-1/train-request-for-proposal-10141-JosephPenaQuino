@@ -1,0 +1,8 @@
+# inputs
+*.in
+# outputs
+*.out
+# PDF
+*.pdf
+# Solution
+main
